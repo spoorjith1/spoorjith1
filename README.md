@@ -23,3 +23,6 @@ https://www.linkedin.com/in/spoorjith/
 
 #### Portfolio
 https://spoorjith.netlify.app/
+
+
+![GitHub Stats](...)   ![GitHub Streak](...)   ![Top Languages](...)
