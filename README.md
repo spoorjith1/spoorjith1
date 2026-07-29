@@ -18,6 +18,7 @@ Backend-Focused Full Stack Developer from India.
 ### Contact
 #### Email
 spoorjith1@gmail.com
+spoorjithchiru@gmail.com
 
 #### LinkedIn
 https://www.linkedin.com/in/spoorjith/
