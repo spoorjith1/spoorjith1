@@ -13,6 +13,7 @@ Backend-Focused Full Stack Developer from India.
 - AWS
 - Redis
 - System Design
+- & Full project delpoyment
 
 ### Contact
 #### Email
